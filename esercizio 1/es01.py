@@ -1,10 +1,3 @@
-# Esercizio 1
-
-![es1](testo-es1.assets/esercizio1.jpeg)
-
-# Soluzione nel file
-
-```python
 # definizione delle variabili
 area          = 0
 data          = 0
@@ -44,5 +37,3 @@ elif usr_input == DEF_QUADRATO:
 else:
     
     print "Opzione" + usr_input + "non valida"
-```
-
