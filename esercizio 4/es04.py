@@ -1,10 +1,3 @@
-# Esercizio 4
-
-![es 4](testo-es4.assets/esercizio4.jpeg)
-
-# Soluzione nel file
-
-```python
 def is_palindroma(stringa, accetta_spazi):
 	
 	if accetta_spazi == True:
@@ -29,5 +22,3 @@ def is_palindroma(stringa, accetta_spazi):
 	# Se non è ancora avvenuto un return False, allora la stringa è 
 	# necessariamente palindroma
 	return True
-```
-
