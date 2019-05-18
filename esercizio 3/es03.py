@@ -1,10 +1,3 @@
-# Esercizio 3
-
-![es 3](testo-es3.assets/esercizio3.jpeg)
-
-# Soluzione nel file
-
-```python
 # Funzione che ritorna il minimo tra a e b
 def minimo(a, b):
 	return a if (b > a) else b
@@ -24,5 +17,3 @@ vettore = [2,3,1,5]
 
 # Printiamo il risultato
 print str(vett_min(vettore, 0, len(vettore)-1))
-```
-
