@@ -1,10 +1,3 @@
-# Esercizio 8
-
-![es 8](testo-es8.assets/esercizio8.jpeg)
-
-# Soluzione nel file
-
-```python
 l1  = raw_input("Inserire gli elementi separati da uno spazio:\n")
 l2  = []
 tmp = 0
@@ -28,5 +21,3 @@ if n < len1 and m < len1:
 # unisce gli elementi in una stringa: 
 # https://www.tutorialspoint.com/python/string_join.htm
 print "L1 = " + " ".join(l1) + "\nL2 = " + " ".join(l2)
-```
-
