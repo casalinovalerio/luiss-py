@@ -1,10 +1,3 @@
-# Esercizio 6
-
-![es 6](testo-es6.assets/esercizio6.jpeg)
-
-# Soluzione nel file
-
-```python
 s_letta        = ''
 vocabolo       = ''
 S_TERMINAZIONE = "stop"
@@ -37,5 +30,4 @@ elif vocabolo in diz_IT_EN.keys():
 	
 else
 	print "Il vocabolo non è presente nei dizionari\n"
-```
-
+	
